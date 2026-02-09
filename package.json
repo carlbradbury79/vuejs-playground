@@ -1,0 +1,31 @@
+{
+  "name": "vuejs-playground",
+  "version": "1.0.0",
+  "description": "Taking a look at vuejs...",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlbradbury79/vuejs-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carlbradbury79/vuejs-playground/issues"
+  },
+  "homepage": "https://github.com/carlbradbury79/vuejs-playground#readme",
+  "dependencies": {
+    "vue": "^3.5.28",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.4",
+    "vite": "^7.3.1"
+  }
+}
