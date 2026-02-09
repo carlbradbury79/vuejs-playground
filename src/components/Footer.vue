@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
     <div class="footer-content">
-      <p>&copy; 2026 Pokémon Vue Playground - Built for Learning</p>
+      <p>&copy; {{ currentYear }} Pokémon Vue Playground - Built for Learning</p>
       <p class="footer-note">Data powered by PokéAPI (not yet implemented)</p>
       <!-- LEARNING: You could add social media links here -->
       <!-- LEARNING: You could add a newsletter signup form -->
